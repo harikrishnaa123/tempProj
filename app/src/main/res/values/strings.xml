@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Enginex</string>
+    <array name="spinnerIteams">
+        <item>PATIENT</item>
+        <item>HEALTH ADVISER</item>
+        <item>USER</item>
+    </array>
+</resources>
